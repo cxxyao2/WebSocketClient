@@ -1,8 +1,7 @@
 # WebSocketClientNg
 
-This C# program implements a WebSocket server
+This Angular program implements a WebSocket Client
 
-📁 Client Side Angular Code Repository:
+📁 Server Side  Code Repository:
 
-Angular GitHub Repository
-Feel free to customize it further to fit your specific project details!
+
